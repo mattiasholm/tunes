@@ -4,22 +4,7 @@ R:slip jig
 M:9/8
 L:1/8
 K:D
-|FGF FED G2E|
-
-
-
-
-
-
-
-F G F   F E D   G   E   F G F   F E D  E D E   F G F   F E D   G   B   A F D   D E F   E   D
-F G F   F E D   G   E   F G F   F E D  E D E   F G F   F E D   G A B   A F D   D E F   E   D
-
-B      B A G   F G A   B   E   E   F   G   B   A B C   'D C B   A B C   'D   D   D E F   E   D
-B      B A G   F G A   B   E   E   F   G   B   A B C   'D C B   A B C   'D   D   D E F   E   D
-
-'F      'F 'E 'D   'G   'E   'F   'F 'E 'D   'E   A   'F      'F 'E 'D 'F 'G   'B   'A 'G 'F   'D 'E 'F   'E   'D
-'F      'F 'E 'D   'G   'E   'F   'F 'E 'D   'E   A   'F      'F 'E 'D 'F 'G   'B   'A 'G 'F   'D 'E 'F   'E   'D
-
-'G 'F 'E   'D Cnat B   A G F   B E E   E   F   G   B   A B C   'D C B   A B C   'D   D   D E F   E   D
-'G 'F 'E   'D Cnat B   A G F   B E E   E   F   G   B   A B C   'D C B   A B C   'D   D   D E F   E   D
+|:F2F FED G2E|FGF FED EDE|F2F FED GAB|AFD DEF E2D:|
+|:B2B BAG FGA|B2E E2F G2B|ABc dcB ABc|d2D DEF E2D:|
+|:f2f fed g2e|fgf fed ede|f2f fed gab|afd def e2d:|
+|:gfe dcB AGF|B2E E2F G2B|ABc dcB ABc|d2D DEF E2D:|
