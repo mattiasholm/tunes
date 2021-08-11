@@ -5,6 +5,6 @@ M:6/8
 L:1/8
 K:Dmix
 |:DED ~A2A|BAG ~A2A|DED ~A2A|BAG ~E2D|
-|DED AFA|BAG ABc|ded ~c2A|BAG ~E2D:|
-|:d2d cdc|BAG ABc|ded cdc|BAG ~E2D|
-|ded cdc |BAG ABc|ded ~c2A|BAG ~E2D:|
+|DED ~A2A|BAG ABc|ded ~c2A|BAG ~E2D:|
+|:~d2d cdc|BAG ABc|ded ~c2A|BAG ~E2D|
+|~d2d cdc|BAG ABc|ded ~c2A|BAG ~E2D:|
