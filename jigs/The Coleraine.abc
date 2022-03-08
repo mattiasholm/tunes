@@ -4,7 +4,7 @@ R:jig
 M:6/8
 L:1/8
 K:Bm
-E|:FBB Bcd|cff f2e|dcB Bcd|c^AF F2E|
-|FBB Bcd|cff f2e|dcB ^ABc|1 dBB B2F:|2 dBB B2c|]
-|:d2d dcB|Ace a2a|bfe dcB|^ABc F2F|
-|B^AB cBc|def gfe|dcB ^ABc|1 dBB B2c:|2 dBB B2F|]
+E|:FBB Bcd|cff ~f2e|dcB Bcd|c^AF ~F2E|
+|FBB Bcd|cff ~f2e|dcB ^ABc|1 dBB ~B2F:|2 dBB ~B2c|]
+|:~d2d dcB|Ace ~a2a|bfe dcB|^ABc ~F2F|
+|B^AB cBc|def gfe|dcB ^ABc|1 dBB ~B2c:|2 dBB ~B2F|]
