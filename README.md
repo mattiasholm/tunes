@@ -3,4 +3,4 @@
 ![Created at](https://img.shields.io/github/created-at/mattiasholm/tunes?color=blue)
 
 # tunes
-A collection of traditional Irish tunes in ABC notation
+A collection of traditional Irish tunes
